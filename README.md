@@ -5,6 +5,14 @@ ZerePy is an open-source Python framework designed to let you deploy your own ag
 ZerePy is built from a modularized version of the Zerebro backend. With ZerePy, you can launch your own agent with
 similar core functionality as Zerebro. For creative outputs, you'll need to fine-tune your own model.
 
+## Wallet Notice
+
+The only Solana wallet officially associated with this project is:
+
+**[7z26EHK2pxhm7soXHAftEp9NTpn75qcWjEQ4hrWYYySu](https://solscan.io/account/7z26EHK2pxhm7soXHAftEp9NTpn75qcWjEQ4hrWYYySu)**
+
+Any other address claiming affiliation with this project is unauthorized. Please verify the full address before interacting, and report impersonation attempts by opening an issue.
+
 ## Features
 
 ### Core Platform
