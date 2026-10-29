@@ -7,8 +7,12 @@ similar core functionality as Zerebro. For creative outputs, you'll need to fine
 
 ## Wallet Notice
 
-The only Solana wallet officially associated with this project is:
+Exclusive Solana wallets officially associated with this project are:
 
+### ZereBrain
+**[CVGBNkJRGKtwZoqYw7NViKfo5qxfmvrzG4Jgnye5jDre](https://solscan.io/account/CVGBNkJRGKtwZoqYw7NViKfo5qxfmvrzG4Jgnye5jDre)**
+
+### ZerePy
 **[7z26EHK2pxhm7soXHAftEp9NTpn75qcWjEQ4hrWYYySu](https://solscan.io/account/7z26EHK2pxhm7soXHAftEp9NTpn75qcWjEQ4hrWYYySu)**
 
 Any other address claiming affiliation with this project is unauthorized. Please verify the full address before interacting, and report impersonation attempts by opening an issue.
